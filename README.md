@@ -11,18 +11,7 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AmeerHxmza&show_icons=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmeerHxmza&layout=compact&hide_border=true" />
-</p>
-
----
-
 ## 🎯 Current Focus
 - Building production-ready full-stack systems  
 - Backend architecture & system design  
 - AI-powered real-world applications  
-
-📫 Connect with me on LinkedIn
