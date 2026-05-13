@@ -6,7 +6,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,react,nextjs,fastapi,postgreSQL,tailwind,docker,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,react,nextjs,fastapi,postgresql,tailwind,docker,git,github,vercel" />
 </p>
 
 ---
