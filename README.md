@@ -1,55 +1,60 @@
-<div align="center">
+### Ameer Hamza · Python & AI Developer
 
-# Ameer Hamza
-### Python & AI Developer
+I design and ship AI systems end-to-end — from LLM orchestration and agentic pipelines to voice interfaces and production deployments. My work sits at the intersection of backend engineering and applied AI.
 
-*I build production AI systems — agentic workflows, RAG pipelines, and full-stack voice apps.*
-
-[![Email](https://img.shields.io/badge/hxmzadev@gmail.com-000?style=flat-square&logo=gmail&logoColor=white)](mailto:hxmzadev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ameerhxmza)
-
-</div>
+Currently building a production AI agent platform with multi-agent workflows, voice interaction, and real-time retrieval over live databases.
 
 ---
 
-## What I Do
+**Core Expertise**
 
-I specialize in building AI-powered backends and full-stack applications — from LLM orchestration and multi-agent systems to voice interfaces and semantic search. My focus is on systems that work in production, not just demos.
-
-- **Agentic AI** — LangGraph multi-agent workflows, tool use, LLM orchestration
-- **RAG & Retrieval** — ChromaDB, pgVector, semantic search over documents and databases
-- **Voice & Multimodal** — Whisper STT, ElevenLabs TTS, real-time conversational AI
-- **Full-Stack AI Apps** — Next.js + FastAPI, end-to-end from model to UI
-
----
-
-## Selected Projects
-
-**[AI Recruit360](https://github.com/AmeerHxmza)** — Intelligent Hiring Platform  
-Full-stack recruitment system with LLM-based CV screening, job-description matching, and automated candidate ranking. Built on Next.js + FastAPI, powered by LangChain and OpenAI API, deployed on Vercel.
-
-**[AWAZ](https://github.com/AmeerHxmza)** — Voice AI Platform  
-Real-time voice assistant with Whisper STT and ElevenLabs TTS. Context-aware multi-turn conversations backed by an LLM agent. Deployed on Vercel and Render.
-
-**[Diagnova](https://github.com/AmeerHxmza)** — AI Lab Report Interpreter  
-Health-tech app using Groq LLaMA 3.3 to extract and explain lab results in plain language. Hybrid GenAI + rule-based pipeline with RAG grounding, risk scoring, and Urdu/Arabic/Spanish support.
-
-**AI Agent Platform** *(production)*  
-Next.js + FastAPI platform with AI avatars, ElevenLabs voice interaction, and LangGraph-orchestrated multi-agent workflows over PostgreSQL and document stores. Live in production.
+| Domain | What I build |
+|---|---|
+| 🤖 Agentic AI | LangGraph multi-agent systems, tool use, LLM orchestration, ReAct loops |
+| 🔍 RAG & Retrieval | Semantic search over documents & databases, ChromaDB, pgVector, hybrid retrieval |
+| 🗣️ Voice AI | Real-time STT/TTS pipelines (Whisper + ElevenLabs), conversational agents |
+| ⚙️ Backend | FastAPI microservices, PostgreSQL, async APIs, REST architecture |
+| 🖥️ Full-Stack | Next.js + FastAPI AI apps, deployed on Vercel, Railway, Render |
 
 ---
 
-## Stack
+**Selected Work**
 
-`Python` `FastAPI` `LangChain` `LangGraph` `CrewAI` `OpenAI API` `HuggingFace`  
-`Next.js` `React` `PostgreSQL` `pgVector` `ChromaDB`  
-`Whisper` `ElevenLabs` `Streamlit` `Gradio`  
-`Vercel` `Railway` `Git`
+**AI Agent Platform** · *Production · 2025–Present*  
+Next.js + FastAPI platform featuring AI avatars, ElevenLabs voice interaction, and LangGraph-orchestrated multi-agent workflows. Agents query live PostgreSQL databases, document stores, and backend APIs in real time. Built in collaboration with a senior engineer.
+
+**[AI Recruit360](https://github.com/AmeerHxmza)** · *2025*  
+End-to-end AI recruitment system. LLM-powered CV screening, job-description matching, and automated candidate ranking. Real-time hiring dashboard built on LangChain + OpenAI API. Deployed on Vercel.
+
+**[AWAZ — Voice AI Platform](https://github.com/AmeerHxmza)** · *2026*  
+Full-stack voice assistant using Whisper STT and ElevenLabs TTS. Context-aware multi-turn agent with persistent conversation state. Deployed across Vercel and Render.
+
+**[Diagnova — Lab Report AI](https://github.com/AmeerHxmza)** · *2026 · Hugging Face Medical Hackathon*  
+Groq LLaMA 3.3-powered health app that interprets lab reports in plain language. Hybrid GenAI + rule-based pipeline with RAG grounding, risk scoring, and multilingual output (Urdu, Arabic, Spanish).
 
 ---
 
-<div align="center">
+**Stack**
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmeerHxmza&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&hide_title=true&icon_color=white&text_color=888)](https://github.com/AmeerHxmza)
+```
+LLMs & Agents    →  LangChain · LangGraph · CrewAI · OpenAI API · HuggingFace · Groq
+Voice & Multimodal  →  Whisper STT · ElevenLabs TTS · Gradio · Streamlit
+Backend          →  Python · FastAPI · PostgreSQL · pgVector · REST APIs
+Vector Stores    →  ChromaDB · pgVector
+Frontend         →  Next.js · React · Tailwind CSS
+Observability    →  Langfuse
+Deploy           →  Vercel · Railway · Render · GitHub Actions
+```
 
-</div>
+---
+
+**GitHub Activity**
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=AmeerHxmza&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&text_color=8b949e&title_color=c9d1d9&hide_title=true&include_all_commits=true)](https://github.com/AmeerHxmza)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmeerHxmza&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=8b949e&title_color=c9d1d9)](https://github.com/AmeerHxmza)
+
+---
+
+**Available for** remote contracts, freelance AI projects, and full-time roles.
+
+📩 [hxmzadev@gmail.com](mailto:hxmzadev@gmail.com) · [LinkedIn](https://linkedin.com/in/ameerhxmza)
