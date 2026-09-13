@@ -1,10 +1,19 @@
 <div align="center">
 
+<img src="./assets/github-profile-banner.png" width="100%" alt="Ameer Hamza — AI Software Engineer" />
+
+<br/>
+
 # Ameer Hamza
 
 ### AI Software Engineer
 
-Building production AI applications across **agentic workflows, RAG, voice AI, APIs, and full-stack products.**
+<a href="https://readme-typing-svg.demolab.com">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=F4C430&center=true&vCenter=true&width=850&lines=Building+Agentic+AI+Systems;Designing+RAG+%26+Knowledge+Platforms;Building+Voice+AI+Applications;Shipping+Full-Stack+AI+Products"
+    alt="Typing SVG"
+  />
+</a>
 
 <br/>
 
@@ -23,11 +32,11 @@ Building production AI applications across **agentic workflows, RAG, voice AI, A
 
 ## About Me
 
-I’m an **AI Software Engineer** focused on turning AI capabilities into reliable, usable software products.
+I’m an **AI Software Engineer** focused on turning AI capabilities into reliable software products.
 
-I work across the complete AI application stack — from **agent orchestration, retrieval systems, and voice interfaces** to **FastAPI services, PostgreSQL data layers, Next.js frontends, and production deployment**.
+I work across the complete AI application stack — from **LLM orchestration, agentic workflows, retrieval systems, and voice interfaces** to **FastAPI backends, PostgreSQL data layers, Next.js frontends, and production deployment**.
 
-My recent work includes multi-agent systems that interact with APIs, databases, document stores, and real-time business data using technologies such as **LangGraph, LangChain, FastAPI, PostgreSQL, pgVector, Whisper, and ElevenLabs**.
+My recent work includes multi-agent systems that interact with APIs, databases, document stores, and real-time business data using **LangGraph, LangChain, FastAPI, PostgreSQL, pgVector, Whisper, and ElevenLabs**.
 
 I care about building AI systems that work **beyond the demo** — with maintainable architecture, grounded retrieval, structured outputs, secure APIs, evaluation, and thoughtful product experiences.
 
@@ -63,7 +72,7 @@ Built around structured recruitment workflows with AI-powered analysis and a pro
 
 <br/>
 
-[**View Portfolio →**](https://ameerhamza-portfoliosite.vercel.app/)
+[**View Project →**](https://ameerhamza-portfoliosite.vercel.app/)
 
 </td>
 
@@ -89,7 +98,7 @@ Agents can work across PostgreSQL data, document knowledge, backend services, an
 
 <br/>
 
-[**View Portfolio →**](https://ameerhamza-portfoliosite.vercel.app/)
+[**View Project →**](https://ameerhamza-portfoliosite.vercel.app/)
 
 </td>
 </tr>
@@ -117,7 +126,7 @@ Built for real-time multi-turn interaction with a production web/backend stack.
 
 <br/>
 
-[**View Portfolio →**](https://ameerhamza-portfoliosite.vercel.app/)
+[**View Project →**](https://ameerhamza-portfoliosite.vercel.app/)
 
 </td>
 
@@ -143,7 +152,7 @@ Supports understandable outputs and multilingual interpretation.
 
 <br/>
 
-[**View Portfolio →**](https://ameerhamza-portfoliosite.vercel.app/)
+[**View Project →**](https://ameerhamza-portfoliosite.vercel.app/)
 
 </td>
 </tr>
