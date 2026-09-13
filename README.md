@@ -1,227 +1,183 @@
 <div align="center">
 
-# Ameer Hamza
-
-### AI Software Engineer
-
-Building production AI applications across **agentic workflows, RAG, voice AI, APIs, and full-stack products.**
+<img src="./assets/github-profile-banner.png" alt="Ameer Hamza — AI Software Engineer" width="100%" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-F4C430?style=for-the-badge&logo=vercel&logoColor=000000)](https://ameerhamza-portfoliosite.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ameerhxmza)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmeerHxmza)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hxmzadev@gmail.com)
-
-<br/>
-
-**Python · FastAPI · LangGraph · RAG · PostgreSQL · Next.js · Voice AI**
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-F4C430?style=for-the-badge&logo=vercel&logoColor=000000)](https://ameerhamza-portfoliosite.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ameerhxmza)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hxmzadev@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+## AI Software Engineer
 
-I’m an **AI Software Engineer** focused on turning AI capabilities into reliable software products.
+I build production-oriented AI applications across **agentic workflows, retrieval systems, voice AI, APIs, databases, and full-stack product experiences**.
 
-I build across the complete AI application stack — from **LLM orchestration, agentic workflows, retrieval systems, and voice interfaces** to **FastAPI backends, PostgreSQL data layers, Next.js frontends, and production deployment**.
+My work sits at the intersection of **AI engineering and software engineering** — taking systems from LLM orchestration and RAG design through FastAPI services, PostgreSQL data layers, Next.js interfaces, evaluation, and deployment.
 
-My current work includes multi-agent systems that interact with APIs, databases, document stores, and real-time business data using tools such as **LangGraph, LangChain, FastAPI, PostgreSQL, pgVector, Whisper, and ElevenLabs**.
+Currently focused on:
 
-I care about building AI systems that work **beyond the demo**: maintainable architecture, reliable retrieval, structured outputs, secure APIs, evaluation, and usable product experiences.
+- **Agentic AI** — LangGraph workflows, tool use, multi-agent orchestration
+- **RAG systems** — semantic search, vector retrieval, grounded generation
+- **Voice AI** — Whisper STT, ElevenLabs TTS, conversational interfaces
+- **AI product engineering** — FastAPI + PostgreSQL + Next.js production stacks
 
-> **Open to remote AI engineering roles, freelance projects, and selected collaborations.**
+> **Open to AI engineering roles, freelance projects, and selected collaborations.**
 
-### → [Explore my portfolio](https://ameerhamza-portfoliosite.vercel.app/)
+**→ [Explore my portfolio and case studies](https://ameerhamza-portfoliosite.vercel.app/)**
 
 ---
 
-## Featured Work
+# Selected Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## AI Recruit360
+### AI Recruitment & Candidate Intelligence Platform
 
-### AI Recruit360
-**AI Recruitment & Candidate Intelligence Platform**
+AI Recruit360 is a full-stack recruitment platform built around **candidate screening, CV analysis, ranking, structured evaluation, and hiring workflows**.
 
-Full-stack recruitment platform for **AI-assisted CV screening, candidate ranking, job matching, and hiring analytics**.
-
-Built around structured recruitment workflows with AI-powered analysis and a production-oriented web architecture.
-
-**Engineering**
-- AI-assisted candidate screening
-- CV and job-description analysis
-- Candidate ranking workflows
-- Recruitment analytics dashboard
-- Full-stack product architecture
+**What I worked on**
+- AI-assisted CV screening and candidate analysis
+- Candidate ranking and job matching
+- Recruitment workflow automation
+- Multi-tenant product architecture
+- Full-stack dashboard and backend integration
 
 **Stack**
 
 `Next.js` `FastAPI` `Supabase` `PostgreSQL` `LangGraph`
 
-</td>
-<td width="50%" valign="top">
+**→ [View portfolio case study](https://ameerhamza-portfoliosite.vercel.app/)**
 
-### AI Agent Platform
-**Multi-Agent · RAG · Voice AI**
+---
 
-Production-oriented AI platform combining **multi-agent orchestration, retrieval, APIs, database access, and voice interaction**.
+## AI Agent Platform
+### Multi-Agent · RAG · Voice AI
 
-Agents can work across PostgreSQL data, document knowledge, backend services, and conversational context.
+A production-oriented AI agent platform combining **multi-agent orchestration, retrieval, APIs, databases, document knowledge, and voice interaction**.
 
-**Engineering**
+**What I worked on**
 - LangGraph multi-agent workflows
-- RAG over structured & unstructured data
-- Tool and API integration
-- PostgreSQL / vector retrieval
-- ElevenLabs voice interaction
+- Tool and backend API integration
+- Retrieval over PostgreSQL and document data
+- Voice interaction with ElevenLabs
+- Full-stack AI application architecture
 
 **Stack**
 
-`LangGraph` `FastAPI` `PostgreSQL` `pgVector` `ElevenLabs`
+`LangGraph` `FastAPI` `PostgreSQL` `pgVector` `Next.js` `ElevenLabs`
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%" valign="top">
+## AWAZ
+### Voice AI Assistant Platform
 
-### AWAZ
-**Voice AI Assistant Platform**
+A voice-enabled AI application combining **speech recognition, LLM reasoning, conversational context, and speech synthesis**.
 
-Voice-enabled conversational AI application combining **speech recognition, LLM reasoning, conversation memory, and speech synthesis**.
-
-Built for real-time multi-turn interaction with a production web/backend stack.
-
-**Engineering**
+**What I worked on**
 - Whisper speech-to-text
 - ElevenLabs text-to-speech
-- Multi-turn conversational memory
-- API and session handling
-- Production deployment
+- Multi-turn conversation memory
+- FastAPI backend and session handling
+- Production deployment across frontend and backend services
 
 **Stack**
 
 `Next.js` `FastAPI` `Whisper` `ElevenLabs` `PostgreSQL`
 
-</td>
+**→ [View project](https://ameerhamza-portfoliosite.vercel.app/)**
 
-<td width="50%" valign="top">
+---
 
-### Diagnova
-**AI-Powered Lab Report Interpreter**
+## Diagnova
+### AI-Powered Lab Report Interpreter
 
-AI application for extracting and interpreting information from medical lab reports using a hybrid **GenAI + retrieval + structured processing** workflow.
+An AI application for extracting, structuring, and interpreting medical lab reports using a hybrid **GenAI + retrieval + rule-based processing** workflow.
 
-Supports understandable outputs and multilingual interpretation.
-
-**Engineering**
+**What I worked on**
 - Structured report extraction
 - RAG-grounded retrieval
-- Rule-based interpretation
 - Risk classification
-- Multilingual generation
+- Multilingual output generation
+- LLM integration and evaluation
 
 **Stack**
 
 `Python` `Groq` `LLaMA 3.3` `RAG` `ChromaDB`
 
-</td>
-</tr>
-</table>
+**→ [View project](https://ameerhamza-portfoliosite.vercel.app/)**
+
+---
+
+# What I Build
+
+| Area | Engineering Focus |
+|---|---|
+| **Agentic AI Systems** | LangGraph, CrewAI, tool calling, multi-agent orchestration, stateful workflows |
+| **RAG & Knowledge Systems** | Embeddings, semantic search, pgVector, ChromaDB, grounded generation |
+| **Voice AI** | Whisper STT, ElevenLabs TTS, conversational context, real-time interaction |
+| **AI Backends** | Python, FastAPI, REST APIs, structured outputs, background AI workflows |
+| **Data & Retrieval** | PostgreSQL, Supabase, vector search, document processing |
+| **Full-Stack AI Products** | Next.js, React, TypeScript, AI-driven product interfaces |
+| **Deployment** | Docker, Vercel, Railway, Render, GitHub Actions |
+
+---
+
+# Core Stack
 
 <div align="center">
 
-### [View projects and case studies →](https://ameerhamza-portfoliosite.vercel.app/)
+### AI & Agents
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+
+`LangGraph` · `LangChain` · `CrewAI` · `RAG` · `Groq` · `OpenAI`
+
+<br/>
+
+### Backend & Data
+
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,supabase,docker" />
+
+`FastAPI` · `PostgreSQL` · `Supabase` · `pgVector` · `ChromaDB`
+
+<br/>
+
+### Frontend & Product
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
+
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS`
+
+<br/>
+
+### Delivery
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,docker" />
+
+`Git` · `GitHub Actions` · `Vercel` · `Railway` · `Render`
 
 </div>
 
 ---
 
-## Engineering Focus
+# Engineering Mindset
 
-| Area | What I Work With |
-|---|---|
-| **Agentic AI** | LangGraph, CrewAI, tool calling, multi-agent orchestration, ReAct workflows |
-| **RAG Systems** | Semantic search, embeddings, hybrid retrieval, pgVector, ChromaDB |
-| **LLM Applications** | LangChain, OpenAI, Groq, structured outputs, prompt engineering |
-| **Voice AI** | Whisper STT, ElevenLabs TTS, real-time conversational agents |
-| **AI Backends** | Python, FastAPI, REST APIs, asynchronous AI workflows |
-| **Data & Retrieval** | PostgreSQL, Supabase, pgVector, document processing |
-| **Full-Stack AI** | Next.js, React, TypeScript, Tailwind CSS |
-| **Deployment** | Docker, Vercel, Railway, Render, GitHub Actions |
-
----
-
-## Core Technology Stack
-
-### AI, Agents & Retrieval
-
-<p>
-  <img src="https://img.shields.io/badge/LangGraph-111111?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CrewAI-5B21B6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/RAG-111111?style=flat-square"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-</p>
-
-### Backend & Data
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pgVector-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-111111?style=flat-square"/>
-</p>
-
-### Voice & Multimodal AI
-
-<p>
-  <img src="https://img.shields.io/badge/Whisper-STT-00A67E?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ElevenLabs-TTS-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square"/>
-</p>
-
-### Frontend & Product Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-</p>
-
-### Infrastructure & Deployment
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-</p>
-
----
-
-## How I Approach AI Engineering
+I treat the LLM as one component of the system — not the whole product.
 
 ```text
-Understand the workflow
-        ↓
-Design the AI / retrieval architecture
-        ↓
-Build APIs, agents and data pipelines
-        ↓
-Connect the product interface
-        ↓
-Evaluate reliability and outputs
-        ↓
-Deploy, observe and improve
+User / Workflow
+      ↓
+Product Interface
+      ↓
+API Boundary
+      ↓
+Agent / Retrieval Layer
+      ↓
+Tools · Data · External APIs
+      ↓
+Validation · Evaluation
+      ↓
+Reliable Product Output
