@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src="./assets/github-profile-banner.png" width="100%" alt="Ameer Hamza — AI Software Engineer" />
-
-<br/>
 
 # Ameer Hamza
 
