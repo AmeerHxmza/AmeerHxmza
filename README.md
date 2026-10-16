@@ -3,7 +3,7 @@
 
 # Ameer Hamza
 
-### AI Software Engineer
+### Full Stack AI Engineer
 
 <a href="https://readme-typing-svg.demolab.com">
   <img
